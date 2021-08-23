@@ -12,7 +12,8 @@ def test(a):
 
 
 test(5)
-
+test(6)
+test(7)
 
 print(divide(8,3))
 
